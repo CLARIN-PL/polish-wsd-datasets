@@ -127,3 +127,6 @@ Manually annotated subcorpus of GLOSSEX (1 635 files). Extracted from wordnet ex
 definitions. 
 
 
+## License
+The available code is distributed under the terms of the MIT license. 
+All corpora are licensed under CC-BY-SA-4.0.
